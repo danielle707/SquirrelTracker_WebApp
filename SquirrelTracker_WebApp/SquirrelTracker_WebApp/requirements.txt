@@ -1,6 +1,6 @@
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==2.2.7
+Django==3.0
 django-import-export==1.2.0
 et-xmlfile==1.0.1
 jdcal==1.4.1
@@ -10,7 +10,7 @@ numpy==1.17.4
 odfpy==1.4.0
 openpyxl==3.0.2
 pandas==0.25.3
-python-dateutil==2.8.1
+python-dateutil==3.7.3
 pytz==2019.3
 PyYAML==5.1.2
 six==1.13.0
