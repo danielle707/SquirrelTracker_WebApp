@@ -19,7 +19,7 @@ UNIs:[zw2631,zq2173]
 
 
 ## Server Link
-Public Clone Repo Link: https://github.com/danielle707/SquirrelTracker_WebApp.git
-Server Application Link: 
-### - sightings: https://vm-for-tools-for-analytics.appspot.com/sightings/
-### - map: https://vm-for-tools-for-analytics.appspot.com/map/
+#### Public Clone Repo Link: https://github.com/danielle707/SquirrelTracker_WebApp.git
+#### Server Application Link: 
+####   - sightings: https://vm-for-tools-for-analytics.appspot.com/sightings/
+####   - map: https://vm-for-tools-for-analytics.appspot.com/map/
