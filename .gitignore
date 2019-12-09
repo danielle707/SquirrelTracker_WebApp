@@ -2,8 +2,7 @@ venv
 db.sqlite3
 __pycache__
 *.swp
-project/media/*
-!project/media/.gitkeep
+SquirrelTracker_WebApp/media/*
 .env
 env.sh
 static/
