@@ -1,4 +1,5 @@
 # Tools for Analytics Final Project: Squirrel Tracker
+![squirrel](https://github.com/danielle707/SquirrelTracker_WebApp/blob/master/SquirrelTracker_WebApp/media/squirrel.jpg)
 
 ## Introduction
 
