@@ -23,3 +23,6 @@ UNIs:[zw2631,zq2173]
 #### Server Application Link: 
 ####   - sightings: https://vm-for-tools-for-analytics.appspot.com/sightings/
 ####   - map: https://vm-for-tools-for-analytics.appspot.com/map/
+
+## Work collaborations:
+App is written by Zhidan Wang(uni:zw2631) and Zixuan Qi(uni:zq2173), and deployed by Zixuan Qi using google cloud app engine
