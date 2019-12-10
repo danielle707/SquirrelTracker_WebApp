@@ -77,3 +77,5 @@ def stats(request):
             }
     return render(request, 'sightings/stats.html',context)
 
+def home(request):
+    return render(request,'sightings/home.html')

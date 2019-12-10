@@ -3,6 +3,7 @@ from . import views
 from django.conf.urls import url
 from .views import all_squirrels,add
 urlpatterns=[
+		path('',views.home),
         path('sightings/',views.all_squirrels),
         path('sightings/add/',views.add,name='add'),
         path('map/',views.showmap,name='showmap'),
