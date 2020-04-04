@@ -22,7 +22,7 @@ backports.weakref==1.0.post1
 beautifulsoup4==4.7.1
 bitarray==0.9.3
 bkcharts==0.2
-bleach==3.1.0
+bleach>=3.1.4
 bokeh==1.2.0
 boto==2.49.0
 boto3==1.10.2
@@ -151,14 +151,14 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.1.0
+pillow>=6.2.2
 pkginfo==1.5.0.1
 pluggy==0.12.0
 ply==3.11
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 protobuf==3.11.1
-psutil==5.6.3
+psutil>=5.6.6
 ptyprocess==0.6.0
 py==1.8.0
 pyasn1==0.4.8
@@ -166,7 +166,6 @@ pyasn1-modules==0.2.7
 pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
-pycrypto==2.6.1
 pycurl==7.43.0.3
 pydotplus==2.0.2
 pyflakes==2.1.1
@@ -229,7 +228,6 @@ sympy==1.4
 tables==3.5.2
 tblib==1.4.0
 tensorboard==2.0.2
-tensorflow==2.0.0
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 terminado==0.8.2
