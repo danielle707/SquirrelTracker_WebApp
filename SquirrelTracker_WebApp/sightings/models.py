@@ -149,4 +149,5 @@ class Squirrels(models.Model):
         return self.Unique_squirrel_id
     def get_absolute_url(self):
         return reverse('squirrels-detail', kwargs={'id':self.Unique_squirrel_id})
-# Create your models here.
+class apprequest(models.Model):
+    squi=models.ForeignKey('app.squirrel',on_delete=models.CASCADE)
